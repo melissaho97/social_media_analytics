@@ -1,5 +1,5 @@
 # COMPSCI5078: Web Science
-<hr>
+
 <ul>
 Group Assignment:
 <li> 2442814M  MELISSA HO HUI QI </li>
@@ -7,4 +7,10 @@ Group Assignment:
 <li> 2495109L  Xi LUO </li>
 </ul>
 
-copyright of US - © University of Glasgow 2020
+<hr>
+
+<footer>
+<p style="float:left; width: 20%;">
+Copyright © University of Glasgow, 2020
+</p>
+</footer>
